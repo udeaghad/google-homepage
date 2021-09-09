@@ -1,0 +1,1 @@
+This project is meant for me to practice with google homepage to test my knowledge on web development
